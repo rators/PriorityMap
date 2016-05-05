@@ -1,10 +1,10 @@
 package utils.algorithm
 
 import graph.WeightedLinker
+import rafcollections.map.sorted.PriorityMap
 
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
-import rafcollections.map.PriorityMap
 
 /**
   * Dijkstra shortest path.

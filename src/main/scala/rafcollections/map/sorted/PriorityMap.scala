@@ -1,4 +1,4 @@
-package rafcollections.map
+package rafcollections.map.sorted
 
 import scala.annotation.tailrec
 import scala.collection.mutable
